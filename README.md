@@ -6,15 +6,15 @@ This repository contains a comprehensive dashboard for analyzing road accident d
 
 ## 🗒️ Table of Contents
 * [🚀 Features](#-features)
-* [📊 Data Overview](#data-overview)
-* [📈 Dashboard Components](#dashboard-components)
-    * [📋 Cards (Key Performance Indicators - KPIs)](#cards-key-performance-indicators---kpis)
-    * [📉 Graphs and Charts](#graphs-and-charts)
-    * [🎚️ Slicers / Filters](#slicers--filters)
-    * [🖱️ Buttons / Navigation](#buttons--navigation)
-* [🤝 Contribution](#contribution)
-* [📄 License](#license)
-* [📧 Contact](#contact)
+* [📊 Data Overview](#-data-overview)
+* [📈 Dashboard Components](#-dashboard-components)
+    * [📋 Cards (Key Performance Indicators - KPIs)](#-cards-key-performance-indicators---kpis)
+    * [📉 Graphs and Charts](#-graphs-and-charts)
+    * [🎚️ Slicers / Filters](#-slicers--filters)
+    * [🖱️ Buttons / Navigation](#-buttons--navigation)
+* [🤝 Contribution](#-contribution)
+* [📄 License](#-license)
+* [📧 Contact](#-contact)
 
 ---
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 
 For any inquiries or further information, please feel free to connect with me:
 
-- **Name**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: github.com/your-username
+- **Name**: [Mridul Krishan Chawla]
+- **Email**: mridulchawla20@gmail.com
+- **GitHub**: https://github.com/Mridul180304
 
