@@ -1,4 +1,3 @@
-```
 # Road Accident Analysis Dashboard 📊🚗
 
 This repository contains a comprehensive dashboard for analyzing road accident data, providing insights into various key trends, geographical factors, and environmental influences. The dashboard is designed to be interactive, allowing users to filter and explore data based on different parameters.
@@ -97,6 +96,8 @@ The dashboard includes distinct navigation buttons to switch between analytical 
 
 - **"Road Accident Analysis Key Trends"**: Displays primary accident statistics and trends.
 - **"Geographical and Environment Factors"**: Shows analyses related to environmental and locational impacts on accidents.
+<img width="885" height="495" alt="image" src="https://github.com/user-attachments/assets/273bc3bf-264a-4995-bb1f-6f97cfbeca8f" />
+<img width="880" height="495" alt="image" src="https://github.com/user-attachments/assets/ebf2c05f-3720-476f-aef8-06263d78ff9f" />
 
 ---
 
@@ -119,4 +120,4 @@ For any inquiries or further information, please feel free to connect with me:
 - **Name**: [Your Name]
 - **Email**: your.email@example.com
 - **GitHub**: github.com/your-username
-```
+
