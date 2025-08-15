@@ -5,7 +5,7 @@ This repository contains a comprehensive dashboard for analyzing road accident d
 ---
 
 ## 🗒️ Table of Contents
-* [🚀 Features](#features)
+* [🚀 Features](#-features)
 * [📊 Data Overview](#data-overview)
 * [📈 Dashboard Components](#dashboard-components)
     * [📋 Cards (Key Performance Indicators - KPIs)](#cards-key-performance-indicators---kpis)
