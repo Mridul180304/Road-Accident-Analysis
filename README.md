@@ -5,16 +5,16 @@ This repository contains a comprehensive dashboard for analyzing road accident d
 ---
 
 ## 🗒️ Table of Contents
-- [🚀 Features](#features)
-- [📊 Data Overview](#data-overview)
-- [📈 Dashboard Components](#dashboard-components)
-  - [📋 Cards (Key Performance Indicators - KPIs)](#cards-key-performance-indicators---kpis)
-  - [📉 Graphs and Charts](#graphs-and-charts)
-  - [🎚️ Slicers / Filters](#slicers--filters)
-  - [🖱️ Buttons / Navigation](#buttons--navigation)
-- [🤝 Contribution](#contribution)
-- [📄 License](#license)
-- [📧 Contact](#contact)
+* [🚀 Features](#features)
+* [📊 Data Overview](#data-overview)
+* [📈 Dashboard Components](#dashboard-components)
+    * [📋 Cards (Key Performance Indicators - KPIs)](#cards-key-performance-indicators---kpis)
+    * [📉 Graphs and Charts](#graphs-and-charts)
+    * [🎚️ Slicers / Filters](#slicers--filters)
+    * [🖱️ Buttons / Navigation](#buttons--navigation)
+* [🤝 Contribution](#contribution)
+* [📄 License](#license)
+* [📧 Contact](#contact)
 
 ---
 
